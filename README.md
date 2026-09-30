@@ -1,0 +1,1 @@
+bir oyun yapıyorum. oyun başından itibaren kurbağa kovalıyor. ve su engeli var. kurbağa kovalarken her on saniyede bir su engeli çıkıyor, su engeli 1,5 metre uzunluğunda  suya gelirse kaybeder. toprak alan 2 metre. her a tuşuna bastığında 2 metre, her w tuşuna bastığında 3 metre, her s tuşuna bastığında 0,5 metre ileriye zıplıyor.  saatte 6km hızla koşuyor.
